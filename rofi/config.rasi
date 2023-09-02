@@ -1,4 +1,3 @@
-
 configuration {
     font:				"JetBrainsMono Bold 12";
     show-icons:				false;
